@@ -1,6 +1,10 @@
 # Version
 v1.0.0
 
+# 360 Video
+http://plab.lapinamk.fi/lapanen/LAMK_Ravadas_8K_VR_Ambix.mp4
+
+
 # Elämysteknologioiden Lappi 2025
 
 Uudet digitaaliset teknologiat tarjoavat lappilaisille, etenkin matkailualan yrityksille mahdollisuuksia, joita ei tällä hetkellä hyödynnetä täysipainoisesti. Digitalisaatio on tuonut matkapuhelimet, sovellukset ja internetsivut osaksi normaalia arkea ja näitä toteutuksia matkailuyritykset osaavat jo toteuttaa. Elämysteknologioiden Lappi 2025 hankkeessa katsotaan näiden toteutuksien yläpuolelle ja tutkitaan uudenlaisia elämyksiä sekä niihin pohjautuvia tuotteita ja palveluita mahdollistavaa teknologiaa, joka ei ole vielä yrityksille ja toimijoille tuttua.
